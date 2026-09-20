@@ -1,0 +1,12 @@
+# My First Project - Muneer Nuhu from Kano
+print("Salam! My First GitHub Project")
+
+name = input("Menene sunanka? ")
+print(f"Barka da zuwa, {name}!")
+
+a = int(input("Shigar da lamba 1: "))
+b = int(input("Shigar da lamba 2: "))
+
+print(f"Jimilla = {a + b}")
+print(f"Ragewa = {a - b}")
+print("Na gode!")
